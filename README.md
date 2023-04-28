@@ -14,10 +14,6 @@
 - 🌱 I’m currently learning **NeRF and HyperNeRF and building products around it** read about it here <a href="https://hypernerf.github.io/" target="blank"> <b> Hypernerf <b> </a> </p>
 
  
-  <font color="green"> test </font>  
- <h1 style="color: #87CEEB"> test 2 </h1>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shaburux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaburux" height="30" width="40" /></a>
