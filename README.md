@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-mark { 
-  background-color: green;
-  color: black;
-  padding:10px;
-}
-</style>
+<head
 </head>
 <body>
   
