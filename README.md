@@ -7,9 +7,12 @@
 <a href="https://www.reddit.com/user/shaburushaburu" target="blank"><img src="https://img.shields.io/reddit/user-karma/combined/SHABURUSHABURU?color=red&logo=REDDIT&style=for-the-badge" alt="shaburux" /></a> </p>
 
 
-- 🌱 I’m currently learning **NeRF and HyperNeRF and building products around it**
+- 
 
 - ⚡ Fun fact **i started multiple fight clubs**
+
+- 🌱 I’m currently learning **NeRF and HyperNeRF and building products around it**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
