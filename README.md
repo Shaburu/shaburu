@@ -13,6 +13,9 @@
 
 - 🌱 I’m currently learning **NeRF and HyperNeRF and building products around it** read about it here <a href="https://hypernerf.github.io/" target="blank"> <b> Hypernerf <b> </a> </p>
 
+- 💗 Looking for Cool projects to Contribute to
+- 💸 Building **Products** one Project at a time!
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
