@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 <style>
 mark { 
@@ -7,6 +9,8 @@ mark {
 }
 </style>
 </head>
+<body>
+  
 <h3 align="center">Hey! Welcome to my Github!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaburu&label=Profile%20views&color=e6bbf2&style=for-the-badge" alt="shaburu" /> </p>
@@ -36,6 +40,10 @@ mark {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaburu&show_icons=true&locale=en&layout=compact" alt="shaburu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaburu&show_icons=true&locale=en" alt="shaburu" /></p>
+
+
+</body>
+</html>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaburu&" alt="shaburu" /></p>
 
