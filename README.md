@@ -1,3 +1,12 @@
+<head>
+<style>
+mark { 
+  background-color: green;
+  color: black;
+  padding:10px;
+}
+</style>
+</head>
 <h3 align="center">Hey! Welcome to my Github!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaburu&label=Profile%20views&color=e6bbf2&style=for-the-badge" alt="shaburu" /> </p>
@@ -11,7 +20,7 @@
 
 - ⚡ Currently starting to fix my **github**
 
-- 🌱 I’m currently learning **NeRF and HyperNeRF and building products around it** read about it here <a href="https://hypernerf.github.io/" target="blank"> Hypernerf </a> </p>
+- 🌱 I’m currently learning **NeRF and HyperNeRF and building products around it** read about it here <a href="https://hypernerf.github.io/" target="blank"> <mark>HYPER</mark>Hypernerf </a> </p>
 
 
 
