@@ -23,9 +23,9 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaburu&show_icons=true&locale=en&theme=transparent&hide_border=true&text_color=a4b1cd&title_color=FF3E3EFF" alt="shaburu" /></p>
   
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaburu&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&text_color=a4b1cd&title_color=FF3E3EFF" alt="shaburu" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaburu&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&text_color=a4b1cd&title_color=FF3E3EFF&show_icons=true" alt="shaburu's TOP LANGUAGES" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shaburu&theme=dark&background=90%2C202E45%2C141D2B&fire=FF3E3E&ring=FF3E3E&sideNums=FF3E3E&currStreakLabel=FF3E3E&currStreakNum=FF3E3E&border=141D2B&stroke=141D2B&dates=0086FF&sideLabels=EB5454" alt="shaburu" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shaburu&theme=dark&background=90%2C202E45%2C141D2B&fire=FF3E3E&ring=FF3E3E&sideNums=FF3E3E&currStreakLabel=FF3E3E&currStreakNum=FF3E3E&border=141D2B&stroke=141D2B&dates=0086FF&sideLabels=EB5454" alt="shaburu's STREAK" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=shaburu&custom_title=Shaburu's%20'consistent'%20Graph&hide_border=true&point=9fef00&area=true&area_color=9fef00&line=FF3E3EFF&bg_color=none&title_color=FF3E3EFF&color=FF3E3EFF" alt="shaburu's graph" /></p>
   
