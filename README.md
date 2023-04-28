@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://twitter.com/shaburux" target="blank"><img src="https://img.shields.io/twitter/follow/shaburux?logo=twitter&style=for-the-badge" alt="shaburux" /></a>
 <a href="https://hackernews.com/shaburu" target="blank"><img src="https://img.shields.io/hackernews/user-karma/shaburu?color=orange&logo=HACKERNEWS&style=for-the-badge" alt="shaburux" /></a> 
-<a href="https://www.reddit.com/user/shaburushaburu" target="blank"><img src="https://img.shields.io/reddit/user-karma/combined/SHABURUSHABURU?color=red&logo=REDDIT&style=for-the-badge" alt="shaburux" /></a> </p>
+<a href="https://www.reddit.com/user/shaburushaburu" target="blank"><img width=100px height=100px src="https://img.shields.io/reddit/user-karma/combined/SHABURUSHABURU?color=red&logo=REDDIT&style=for-the-badge" alt="shaburux" /></a> </p>
 
 
 - 👹 God may judge you but his sins outnumber your own
