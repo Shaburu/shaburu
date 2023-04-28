@@ -11,7 +11,7 @@
 
 - ⚡ Currently starting to fix my **github**
 
-- 🌱 I’m currently learning **NeRF and HyperNeRF and building products around it** read about it here <a href="https://hypernerf.github.io/" target="blank"><img width=100px height=100px src="https://hypernerf.github.io/static/images/logo.svg" alt="hypernerf" /></a> </p>
+- 🌱 I’m currently learning **NeRF and HyperNeRF and building products around it** read about it here <a href="https://hypernerf.github.io/" target="blank"><img src="https://hypernerf.github.io/static/images/logo.svg" style="background-color:red;padding:20px;width:500px;height:600px;" alt="hypernerf" /></a> </p>
 
 
 
