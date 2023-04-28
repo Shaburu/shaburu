@@ -31,7 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shaburu&theme=dark&background=90%2C202E45%2C141D2B&fire=FF3E3E&ring=FF3E3E&sideNums=FF3E3E&currStreakLabel=FF3E3E&currStreakNum=FF3E3E&border=141D2B&stroke=141D2B&dates=0086FF&sideLabels=EB5454" alt="shaburu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaburu&" alt="shaburu" /></p>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shaburu&theme=dark&background=90%2C202E45%2C141D2B&fire=FF3E3E&ring=FF3E3E&sideNums=FF3E3E&currStreakLabel=FF3E3E&currStreakNum=FF3E3E&border=141D2B&stroke=141D2B&dates=0086FF&sideLabels=EB5454)](https://git.io/streak-stats)
-
