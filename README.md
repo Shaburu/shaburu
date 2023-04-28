@@ -15,7 +15,7 @@
 
  
   <font color="green"> test </font>  
- <h1 style="color:green"> test 2 </h1>
+ <h1 style="color: green"> test 2 </h1>
 
 
 <h3 align="left">Connect with me:</h3>
