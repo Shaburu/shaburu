@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaburu&label=Profile%20views&color=0e75b6&style=flat" alt="shaburu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shaburux" target="blank"><img src="https://img.shields.io/twitter/follow/shaburux?logo=twitter&style=for-the-badge" alt="shaburux" /></a> </p>
-<p align="left"> <a href="https://instagram.com/shaburu" target="blank"><img src="https://img.shields.io/hackernews/user-karma/shaburu?logo=hackernews&style=social" alt="shaburux" /></a> </p>
+ <a href="https://twitter.com/shaburux" target="blank"><img src="https://img.shields.io/twitter/follow/shaburux?logo=twitter&style=for-the-badge" alt="shaburux" /></a> 
+<a href="https://instagram.com/shaburu" target="blank"><img src="https://img.shields.io/hackernews/user-karma/shaburu?logo=hackernews&style=social" alt="shaburux" /></a> </p>
 
 
 
