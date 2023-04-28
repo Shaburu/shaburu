@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/shaburux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaburux" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shaburusyntax385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shaburusyntax385" height="30" width="40" /></a>
+<a href="https://instagram.com/shaburux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaburux" height="30" width="40" /></a>
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaburu&show_icons=true&locale=en&theme=transparent&hide_border=true&text_color=a4b1cd&title_color=FF3E3EFF" alt="shaburu" /></p>
