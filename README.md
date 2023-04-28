@@ -24,7 +24,7 @@ mark {
 
 - ⚡ Currently starting to fix my **github**
 
-- 🌱 I’m currently learning **NeRF and HyperNeRF and building products around it** read about it here <a href="https://hypernerf.github.io/" target="blank"> <mark>HYPER</mark>Hypernerf </a> </p>
+- 🌱 I’m currently learning **NeRF and HyperNeRF and building products around it** read about it here <a href="https://hypernerf.github.io/" target="blank"> <mark style="background-color: green;color: black;padding:10px;">HYPER</mark> Hypernerf </a> </p>
 
 
 
