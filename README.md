@@ -1,6 +1,6 @@
-<h3 align="center">Frontend(React), backend, AR/VR, OpenCV and Creative Suite (Adobe After Effects premiere, photoshop, etc)</h3>
+<h3 align="center">Hey! Welcome to my Github!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaburu&label=Profile%20views&color=0e75b6&style=flat" alt="shaburu" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shaburu&label=Profile%20views&color=#e6bbf2&style=for-the-badge" alt="shaburu" />
 
  <a href="https://twitter.com/shaburux" target="blank"><img src="https://img.shields.io/twitter/follow/shaburux?logo=twitter&style=for-the-badge" alt="shaburux" /></a> <br>
 <a href="https://hackernews.com/shaburu" target="blank"><img src="https://img.shields.io/hackernews/user-karma/shaburu?color=orange&logo=HACKERNEWS&style=for-the-badge" alt="shaburux" /></a> 
