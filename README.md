@@ -9,7 +9,7 @@
 
 - 👹 God may judge you but his sins outnumber your own
 
-- ⚡ Currently starting to fix my **github**
+- ⚡ Currently starting to fix my **github** Checkout my blog <a href="https://shaburu.github.io/">Shaburu.github.io/a>
 
 - 🌱 I’m currently learning **NeRF and HyperNeRF and building products around it** read about it here <a href="https://hypernerf.github.io/" target="blank"> <b> Hypernerf <b> </a> </p>
 
