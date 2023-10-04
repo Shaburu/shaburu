@@ -6,14 +6,12 @@
 <a href="https://news.ycombinator.com/user?id=shaburu" target="blank"><img src="https://img.shields.io/hackernews/user-karma/shaburu?color=orange&logo=HACKERNEWS&style=for-the-badge" alt="shaburux" /></a> 
 <a href="https://www.reddit.com/user/shaburushaburu" target="blank"><img src="https://img.shields.io/reddit/user-karma/combined/SHABURUSHABURU?color=red&logo=REDDIT&style=for-the-badge" alt="shaburux" /></a> </p>
 
-<h3 align="left"> - 👹 God may judge you but his sins outnumber your own</h3> 
+<h3 align="left"> 👹 God may judge you but his sins outnumber your own</h3> 
 
 - ⚡ Checkout my **Publication website** <a href="https://shaburu.github.io/">Shaburu.github.io</a> and **Personal "Artistic" Website**
-
-- 🌱 I’m currently learning **Computer Vision and reading about NeRFs, HyperNeRFs and  Gaussian Splatting. Also building products around it** 
-
 - 💗 Open Source Contributor Looking for Cool projects to Contribute to
 - 💸 Building **Products** one Project at a time!
+- 🌱 I’m currently learning **Computer Vision and reading about NeRFs, HyperNeRFs and  Gaussian Splatting. Also building products around it** 
 
  
 <h3 align="center">Connect with me:</h3>
