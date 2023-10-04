@@ -24,6 +24,7 @@
   
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaburu&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&text_color=a4b1cd&title_color=FF3E3EFF&show_icons=true" alt="shaburu's TOP LANGUAGES" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaburu&theme=dark&ring=FF3E3E&sideNums=FF3E3E&border=FF3E3E)](https://git.io/streak-stats)
 
   
 
