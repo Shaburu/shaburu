@@ -7,13 +7,13 @@
 <a href="https://www.reddit.com/user/shaburushaburu" target="blank"><img src="https://img.shields.io/reddit/user-karma/combined/SHABURUSHABURU?color=red&logo=REDDIT&style=for-the-badge" alt="shaburux" /></a> </p>
 
 
-- 👹 God may judge you but his sins outnumber your own
+<h2 align="center">👹 God may judge you but his sins outnumber your own</h2> 
 
 - ⚡ Checkout my **Publication website** <a href="https://shaburu.github.io/">Shaburu.github.io</a> and **Personal "Artistic" Website**
 
-- 🌱 I’m currently learning **NeRF and HyperNeRF and building products around it** read about it here <a href="https://hypernerf.github.io/" target="blank"> <b> Hypernerf <b> </a> </p>
+- 🌱 I’m currently learning **Computer Vision and reading about NeRFs, HyperNeRFs and  Gaussian Splatting. Also building products around it** 
 
-- 💗 Looking for Cool projects to Contribute to
+- 💗 Open Source Contributor Looking for Cool projects to Contribute to
 - 💸 Building **Products** one Project at a time!
 
  
