@@ -25,7 +25,7 @@
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaburu&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&text_color=a4b1cd&title_color=FF3E3EFF&show_icons=true" alt="shaburu's TOP LANGUAGES" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaburu&theme=dark&ring=FF3E3E&sideNums=FF3E3E&border=FF3E3E)](https://git.io/streak-stats)
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shaburu&theme=dark&background=90%2C202E45%2C141D2B&fire=FF3E3E&ring=FF3E3E&sideNums=FF3E3E&currStreakLabel=FF3E3E&currStreakNum=FF3E3E&border=141D2B&stroke=141D2B&dates=0086FF&sideLabels=EB5454" alt="shaburu's STREAK" /></p>
   
 
 <h3 align="center">Languages and Tools:</h3>
