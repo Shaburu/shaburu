@@ -11,7 +11,7 @@
 - ⚡ Checkout my **Publication website** <a href="https://shaburu.github.io/">Shaburu.github.io</a> and **Personal "Artistic" Website**
 - 💗 Open Source Contributor Looking for Cool projects to Contribute to
 - 💸 Building **Products** one Project at a time!
-- 🌱 I’m currently learning **Computer Vision and reading about NeRFs, HyperNeRFs and  Gaussian Splatting. Also building products around it** 
+- 🌱 I’m currently learning **AR/VR and Computer Vision Development. Also building products around it** 
 
  
 <h3 align="center">Connect with me:</h3>
