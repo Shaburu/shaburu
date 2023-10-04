@@ -5,9 +5,8 @@
 <p align="center"> <a href="https://twitter.com/shaburux" target="blank"><img src="https://img.shields.io/twitter/follow/shaburux?logo=twitter&style=for-the-badge" alt="shaburux" /></a>
 <a href="https://news.ycombinator.com/user?id=shaburu" target="blank"><img src="https://img.shields.io/hackernews/user-karma/shaburu?color=orange&logo=HACKERNEWS&style=for-the-badge" alt="shaburux" /></a> 
 <a href="https://www.reddit.com/user/shaburushaburu" target="blank"><img src="https://img.shields.io/reddit/user-karma/combined/SHABURUSHABURU?color=red&logo=REDDIT&style=for-the-badge" alt="shaburux" /></a> </p>
-- 
 
-<h2 align="center">👹 God may judge you but his sins outnumber your own</h2> 
+<h3 align="left"> - 👹 God may judge you but his sins outnumber your own</h3> 
 
 - ⚡ Checkout my **Publication website** <a href="https://shaburu.github.io/">Shaburu.github.io</a> and **Personal "Artistic" Website**
 
