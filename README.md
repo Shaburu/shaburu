@@ -8,7 +8,7 @@
 
 👹 God may judge you but his sins outnumber your own
 
-- ⚡ Checkout my **Publication website** <a href="https://shaburu.github.io/">Shaburu.github.io</a> and **Personal "Artistic" Website**
+- ⚡ Checkout my **Publication website** <a href="https://shaburu.github.io/">Shaburu.github.io</a> and **Blog Website** <a href="https://shaburublog.vercel.app/">Shaburu</a>
 - 💗 Open Source Contributor Looking for Cool projects to Contribute to
 - 💸 Building **Products** one Project at a time!
 - 🌱 I’m currently learning **AR/VR and Computer Vision Development. Also building products around it** 
